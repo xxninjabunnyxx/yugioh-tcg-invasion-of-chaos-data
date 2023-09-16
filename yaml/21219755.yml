@@ -1,0 +1,39 @@
+---
+id: 21219755
+name: Destruction Ring
+type: Trap Card
+frameType: trap
+desc: Destroy 1 face-up monster on your side of the field to inflict 1000 points of
+  damage to both players' Life Points.
+race: Normal
+card_sets:
+- set_name: Dark Revelation Volume 2
+  set_code: DR2-EN102
+  set_rarity: Common
+  set_rarity_code: "(C)"
+  set_price: '1.25'
+- set_name: Invasion of Chaos
+  set_code: IOC-101
+  set_rarity: Rare
+  set_rarity_code: "(R)"
+  set_price: '1.78'
+- set_name: Invasion of Chaos
+  set_code: IOC-EN101
+  set_rarity: Rare
+  set_rarity_code: "(R)"
+  set_price: '4.48'
+card_images:
+- id: 21219755
+  image_url: https://images.ygoprodeck.com/images/cards/21219755.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/21219755.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/21219755.jpg
+- id: 21219755
+  image_url: https://images.ygoprodeck.com/images/cards/21219755.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/21219755.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/21219755.jpg
+card_prices:
+- cardmarket_price: '0.15'
+  tcgplayer_price: '0.13'
+  ebay_price: '2.50'
+  amazon_price: '1.85'
+  coolstuffinc_price: '0.25'

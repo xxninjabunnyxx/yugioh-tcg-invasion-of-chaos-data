@@ -1,0 +1,38 @@
+---
+id: 4542651
+name: Yellow Luster Shield
+type: Spell Card
+frameType: spell
+desc: Increase the DEF of all monsters on your side of the field by 300 points.
+race: Continuous
+card_sets:
+- set_name: Dark Revelation Volume 2
+  set_code: DR2-EN037
+  set_rarity: Common
+  set_rarity_code: "(C)"
+  set_price: '2.12'
+- set_name: Invasion of Chaos
+  set_code: IOC-037
+  set_rarity: Common
+  set_rarity_code: "(C)"
+  set_price: '1.42'
+- set_name: Invasion of Chaos
+  set_code: IOC-EN037
+  set_rarity: Common
+  set_rarity_code: "(C)"
+  set_price: '1.66'
+card_images:
+- id: 4542651
+  image_url: https://images.ygoprodeck.com/images/cards/4542651.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/4542651.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/4542651.jpg
+- id: 4542651
+  image_url: https://images.ygoprodeck.com/images/cards/4542651.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/4542651.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/4542651.jpg
+card_prices:
+- cardmarket_price: '0.07'
+  tcgplayer_price: '0.10'
+  ebay_price: '0.99'
+  amazon_price: '0.25'
+  coolstuffinc_price: '0.25'
